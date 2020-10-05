@@ -29,7 +29,7 @@ $root.= str_replace(basename($_SERVER['SCRIPT_NAME']), '', $_SERVER['SCRIPT_NAME
 $config['base_url'] = $root;
 
 // $config['api_endpoint'] = 'http://localhost:3002/';
-$config['api_endpoint'] = 'http://202.53.254.36:3002/';
+$config['api_endpoint'] = 'http://202.53.254.36:3001/';
 // $_SERVER['REQUEST_URI_PATH']	= parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 // $segments 						= explode('/', $_SERVER['REQUEST_URI_PATH']);
 // $index_uri = $segments[2] === "index.php" ? 3 : 2;

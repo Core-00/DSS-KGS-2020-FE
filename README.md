@@ -1,6 +1,6 @@
 # KGS-DSS-FE 2020
 
-## Configurasi API
+## Konfigurasi API
 > _application/config/config.php_
 
 ## Workspace semua berada dalam satu folder _modules_

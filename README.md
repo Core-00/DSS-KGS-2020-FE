@@ -1,4 +1,4 @@
-# kgs-web 2020
+# KGS-DSS-FE 2020
 
 ## Configurasi API
 > _application/config/config.php_
@@ -6,7 +6,7 @@
 ## Workspace semua berada dalam satu folder _modules_
 > _application/modules_
 
-**Terdari dari 8 modules**
+**Terdari atas 8 modules**
 1. accounts
 2. csv
 3. dashboard
